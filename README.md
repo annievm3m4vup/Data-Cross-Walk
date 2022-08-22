@@ -4,9 +4,9 @@ Crosswalk files are important when you try to download census data. For instance
 
 ## Govs code and Fips code
 
-Source: 
+Source: American National Standards Institute (ANSI) and Federal Information Processing Series (FIPS) Codes
 
-Website: 
+Website: https://www.census.gov/library/reference/code-lists/ansi.html
 
 ## Zip code and census tract
 
